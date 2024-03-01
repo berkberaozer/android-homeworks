@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BerkBeraOzer_HW2</string>
+    <string name="watch_date">Watch Date:</string>
+    <string name="name">Name:</string>
+    <string name="score">Score:</string>
+    <string name="edit">Edit</string>
+    <string name="movie">Movie</string>
+    <string name="series">Series</string>
+    <string name="type">Type:</string>
+    <string name="add">Add</string>
+    <string name="nameHint">Name</string>
+    <string name="dd_mm_yyyy">DD-MM-YYYY</string>
+    <string name="movieMovie">Movie</string>
+    <string name="seriesSeries">Series</string>
+    <string name="add_show">Add Show</string>
+    <string name="lt_catalog"><![CDATA[<-- Catalog]]></string>
+    <string name="delete_all_shows">Delete All Shows</string>
+    <string name="my_movie_amp_series_catalog"><![CDATA[My Movie & Series Catalog]]></string>
+    <string name="add_show_gt"><![CDATA[Add Show -->]]></string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="series1">Series</string>
+    <string name="movie1">Movie</string>
+    <string name="edit1">Edit</string>
+</resources>
